@@ -76,7 +76,7 @@ header .container {
     flex-direction: row;
 }
 
-.button {
+.buttons-wrapper button {
     background-color: rgb(0,0,0, 0.5);
     border: none;
     color: #fff;
@@ -93,4 +93,12 @@ header .container {
 
 .button i {
     margin-right: 8px;
+}
+
+.container{
+    margin-left: 3%;
+}
+
+.filme-principal .container {
+    width: 70%;
 }
